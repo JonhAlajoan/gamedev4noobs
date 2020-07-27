@@ -36,10 +36,35 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
    - [Collider]()
    - [Canvas]()
    - [Physics]()
-6. **Visual Studio - Conceitos Básicos**
+6. **Unity - Componentes visuais e assets **
+   - [Sprites]()
+   - [Animator]()
+   - [Assets]()
+7. **Visual Studio - Conceitos Básicos de programação**
    - [Conhecendo o Editor]()
    - [Debug]()
-7. **Criando Mundos com World Creator 2**
+   - [Tipos de variáveis]()
+   - [Arrays]()
+   - [Funções] ()
+   - [Funções do monobehaviour]()
+   - [If/Else]()
+ 8. **Visual Studio - Conceitos Básicos de matemática para jogos**
+   - [Time.DeltaTime]()
+   - [Vectors]()
+   - [Transform]()
+ 8. **Unity - Construindo nosso primeiro game 2D**
+   - [Sobre o projeto]()
+   - [Importar sprites]()
+   - [Animar o jogador]()
+   - [Movimentação do jogador]()
+   - [Geração de obstáculos]()
+   - [Dano dos obstáculos ao jogador]()
+   - [Modificar canvas]()
+   - [Game Over]()
+   - [Salvar pontuação máxima]()
+   - [Menu principal]()
+
+10. **Criando Mundos com World Creator 2**
    - [Conhecendo a Ferramenta](./topics/7-World/1-Ferramenta.md)
    - [Iniciando com Superficies](./topics/7-World/2-Superficie.md)
    - [Filtros de Superficie](./topics/7-World/3-Filtros.md)
