@@ -17,18 +17,22 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
 1. **Introdução**
    - [Motivação](./topics/1-Introducao/Introducao.md)
    - [Engines](./topics/1-Introducao/Engines.md)
+   
 2. **Ferramentas**
    - [Unity](./topics/2-Ferramentas/Unity.md)
    - [Ambiente de desenvolvimento](./topics/2-Ferramentas/Editor.md)
+   
 3. **Unity - Configuração do Ambiente**
    - [Unity Hub](./topics/3-Ambiente/UnityHub.md)
    - [Visual Studio](./topics/3-Ambiente/VisualStudio.md)
    - [Unity Editor](./topics/3-Ambiente/UnityEditor.md)
+   
 4. **Unity - Conceitos Básicos**
    - [Conhecendo o Editor]()
    - [Objetos]()
    - [Scripts]()
    - [Console]()
+   
 5. **Unity - Componentes**
    - [GameObject]()
    - [Camera]()
@@ -36,22 +40,26 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
    - [Collider]()
    - [Canvas]()
    - [Physics]()
+   
 6. **Unity - Componentes visuais e assets**
    - [Sprites]()
    - [Animator]()
    - [Assets]()
+   
 7. **Visual Studio - Conceitos Básicos de programação**
    - [Conhecendo o Editor]()
    - [Debug]()
    - [Tipos de variáveis]()
    - [Arrays]()
-   - [Funções] ()
+   - [Funções]()
    - [Funções do monobehaviour]()
    - [If/Else]()
+   
  8. **Visual Studio - Conceitos Básicos de matemática para jogos**
    - [Time.DeltaTime]()
    - [Vectors]()
    - [Transform]()
+   
  8. **Unity - Construindo nosso primeiro game 2D**
    - [Sobre o projeto]()
    - [Importar sprites]()
