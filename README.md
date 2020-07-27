@@ -62,6 +62,7 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
    - [Modificar canvas]()
    - [Game Over]()
    - [Salvar pontuação máxima]()
+   - [Efeitos sonoros]()
    - [Menu principal]()
 10. **Criando Mundos com World Creator 2**
    - [Conhecendo a Ferramenta](./topics/7-World/1-Ferramenta.md)
