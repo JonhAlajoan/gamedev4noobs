@@ -36,7 +36,7 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
    - [Collider]()
    - [Canvas]()
    - [Physics]()
-6. **Unity - Componentes visuais e assets **
+6. **Unity - Componentes visuais e assets**
    - [Sprites]()
    - [Animator]()
    - [Assets]()
