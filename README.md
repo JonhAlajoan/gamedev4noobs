@@ -21,9 +21,9 @@ Para poder aproveitar os conteúdos do repositório da melhor forma, você irá 
    - [Unity](./topics/2-Ferramentas/1-Unity.md)
    - [Ambiente de desenvolvimento](./topics/2-Ferramentas/2-Editor.md)
  3. **Unity - Configuração do Ambiente**
-   - [Unity Hub](./topics/3-Ambiente/UnityHub.md)
-   - [Visual Studio](./topics/3-Ambiente/VisualStudio.md)
-   - [Unity Editor](./topics/3-Ambiente/UnityEditor.md)
+   - [Unity Hub](./topics/3-Ambiente/1-UnityHub.md)
+   - [Visual Studio](./topics/3-Ambiente/2-VisualStudio.md)
+   - [Unity Editor](./topics/3-Ambiente/3-UnityEditor.md)
  4. **Unity - Conceitos Básicos**
    - [Conhecendo o Editor]()
    - [Objetos]()
